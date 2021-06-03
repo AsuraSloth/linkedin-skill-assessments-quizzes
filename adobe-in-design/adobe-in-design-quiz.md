@@ -22,3 +22,13 @@
 - [ ] The selected text is in overset text outside the boundaries of the current frame.
 - [ ] The style has been applied to two or more paragraphs.
 - [ ] The style has been added since the master styles were created.
+
+
+#### Q4. In the image shown, what does the icon to the right of the page thumbnail indicate?
+
+![Q4](images/Q7.jpg)
+
+- [ ] There are one or more items on this page that are rotated or flagged for rotation.
+- [ ] The page appears rotated in the document window, but will print unrotated.
+- [ ] The page is marked to be rotated when exported or printed.
+- [ ] The page thumbnail in the Pages panel appears rotated.
