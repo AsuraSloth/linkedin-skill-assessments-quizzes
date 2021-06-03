@@ -26,7 +26,7 @@
 
 #### Q4. In the image shown, what does the icon to the right of the page thumbnail indicate?
 
-![Q4](images/Q7.jpg)
+![Q4](images/Q4.jpg)
 
 - [ ] There are one or more items on this page that are rotated or flagged for rotation.
 - [ ] The page appears rotated in the document window, but will print unrotated.
